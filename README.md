@@ -2,7 +2,7 @@
 
 - 🔭 looking to collaborate on IoT
 - 👯 currently working on embedded systems 
-- 📫 contact me use the feedback button top-right
+- 📫 to contact use the feedback button top-right
 ```
 if (isAwesome){
   return {location:germany, area:nrw, skills:{fullstack:true}}
