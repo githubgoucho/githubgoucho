@@ -1,20 +1,22 @@
 ### Hi there 👋
+
+- 🔭 looking to collaborate on IoT
+- 👯 currently working on embedded systems 
+- 📫 to reach me use the feedback button top-right
 ```
 if (isAwesome){
-  return true
+  return {location:germany, area:nrw, skills:{fullstack:true}}
 }
 ```
 <!--
-**githubgoucho/githubgoucho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**githubgoucho/githubgoucho** is a ✨ _github_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
