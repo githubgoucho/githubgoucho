@@ -5,7 +5,7 @@
 - 📫 to contact use the feedback button top-right
 ```
 if (isAwesome){
-  return [{location:germany, area:nrw, skills:{fullstack:true}}];
+  return [{location:germany, area:nrw, skills:{full_stack:true}}];
 }
 ```
 <!--
