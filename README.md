@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m looking to collaborate on IoT developement
+- 🔭 looking to collaborate on IoT developement
 - 👯 currently working on embedded systems 
 - 📫 to contact use the feedback button top-right
 ```
