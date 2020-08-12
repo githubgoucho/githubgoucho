@@ -4,7 +4,7 @@
 - 👯 currently working on embedded systems 
 - 📫 to contact use the feedback button top-right
 ```
-if (isAwesome){
+if (request){
   return [
             {
               location:germany, 
