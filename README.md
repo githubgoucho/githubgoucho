@@ -7,9 +7,9 @@
 if (request){
   return [
             {
-              location:germany, 
-              area:nrw, 
-              skills:{full_stack:true}
+              location:"germany", 
+              area:"nrw", 
+              skills:{"full_stack",,,}
             }
          ];
 }
