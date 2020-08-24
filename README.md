@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 looking to collaborate on IoT developement
-- 👯 currently working on embedded systems 
+- 👯 currently working on embedded systems
 - 📫 to contact use the feedback button top-right
 ```
 if (request){
