@@ -8,7 +8,7 @@ if (request){
   return [
             {
               "location":"germany", 
-              "area":"nrw", 
+              "area":"nrw",
               "skills":["full_stack"]
             }
          ]
