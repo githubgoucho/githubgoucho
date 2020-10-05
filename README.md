@@ -5,7 +5,7 @@
 - 📫 to contact use the feedback button top-right
 ```
 if (request){
-  return [
+  return [ 
             { 
               "location":"germany", 
               "area":"nrw",
