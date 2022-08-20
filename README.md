@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 looking to collaborate on IoT developement
-- 👯 raspi, esp32, arduino, esp8266
-- 📫 to contact use the feedback button top-right
 ```
 if (request){
   return [
