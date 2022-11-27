@@ -3,10 +3,10 @@
 ```
 if (request){
   return [
-            { 
+            { "level":"full_stack",
               "location":"germany",
               "area":"nrw",
-              "skills":["c#,c++,full_stack"]
+              "skills":["c#",".Net","MAUI","c++","javascript","angular"]
             }
          ]
          ;
