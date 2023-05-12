@@ -6,7 +6,8 @@ if (request){
             { "level":"full_stack",
               "location":"germany",
               "area":"nrw",
-              "skills":["c#",".Net","MAUI","c++","javascript","angular"]
+              "skills":["c#",".Net","MAUI","c++","javascript","angular"],
+              "website":"atlsoft.de"
             }
          ]
          ;
